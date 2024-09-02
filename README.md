@@ -69,7 +69,7 @@ Ensure you have the following installed:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/mern-react-admin-dashboard.git
+   git clone https://github.com/iamjohncaleb/mern-react-admin-dashboard.git
    cd mern-react-admin-dashboard
    ```
 
