@@ -19,7 +19,6 @@ import * as clientController from "../controllers/client.js";
 
 
 
-
 const router = express.Router();
 import {
   getProducts,
