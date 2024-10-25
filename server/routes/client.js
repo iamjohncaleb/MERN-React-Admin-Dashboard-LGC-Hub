@@ -1,6 +1,5 @@
 import express from "express";
 import * as clientController from "../controllers/client.js";
-
 import {
   getProducts,
   getCustomers,
