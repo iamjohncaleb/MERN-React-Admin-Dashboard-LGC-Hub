@@ -15,7 +15,6 @@ import * as clientController from "../controllers/client.js";
 
 
 
-
 import {
   getProducts,
   getCustomers,
